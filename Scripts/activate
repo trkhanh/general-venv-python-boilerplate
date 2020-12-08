@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\Khanh.DESKTOP-AQ0HCUH\source\repos\horse-game-py"
+VIRTUAL_ENV="C:\Users\Khanh.DESKTOP-AQ0HCUH\source\repos\python-horse"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
@@ -54,8 +54,8 @@ fi
 
 if [ -z "${VIRTUAL_ENV_DISABLE_PROMPT:-}" ] ; then
     _OLD_VIRTUAL_PS1="${PS1:-}"
-    if [ "x(horse-game-py) " != x ] ; then
-	PS1="(horse-game-py) ${PS1:-}"
+    if [ "x(python-horse) " != x ] ; then
+	PS1="(python-horse) ${PS1:-}"
     else
     if [ "`basename \"$VIRTUAL_ENV\"`" = "__" ] ; then
         # special case for Aspen magic directories
