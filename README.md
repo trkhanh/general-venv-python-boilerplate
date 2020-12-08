@@ -8,7 +8,7 @@ A simple boilerplate to production builds.
 
 ```bash
 # create new project
-$ npx degit trkhanh/python-venv-boilerplate example-1
+$ npx degit trkhanh/python-venv-boilerplate <projectName> example-1
 $ cd example-1
 
 # install required venv
