@@ -1,2 +1,3 @@
 pgzero
 pygame --pre
+panda
